@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+h1{
+    color: white;
+}
+H4{
+    color: white;
+}
+h2{
+    color: white
+    ;
+}
+hr{
+    color: rgba(0, 0, 0, 0.705);
+}
+td{
+    color: rgb(158, 157, 157);
+}
+.container{
+    position: relative;
+}
+.text-block{
+    position: absolute;
+    bottom: -100px;
+    left: 135px;
+}
+h6{
+    color: #00f040;
+    text-align: center;
+}
+.hr{
+    color: #000;
+}
